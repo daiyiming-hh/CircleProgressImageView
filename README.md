@@ -1,0 +1,2 @@
+# CircleProgressImageView
+用于上传头像，图像加载等方面动态显示进度的Android组件
