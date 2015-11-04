@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.unique.circleprogressimage.MainActivity">
+
+    <com.unique.circleprogressimage.view.CircleProgressImage
+        android:id="@+id/cpimg_progress"
+        android:layout_centerInParent="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:borderColor="#D41313"
+        android:src="@drawable/header"/>
+
+</RelativeLayout>
